@@ -5,5 +5,5 @@ Generative model on MNIST dataset.
 + Fully connected layer
 + Z\_size = 1024
 
-###Reference
+### Reference
 https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
